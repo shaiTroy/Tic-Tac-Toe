@@ -4,7 +4,7 @@
 
 To play the Tic-Tac-Toe game, follow these steps:
 
-1. Download and unzip the game files.
+1. Download and unzip the game files, labeled `TicTacToe.zip`.
 2. If you prefer to play in a Python window:
    - Double-click the `TicTacToe.py` file to open it in a new window.
    - Follow the on-screen instructions to play the game.
